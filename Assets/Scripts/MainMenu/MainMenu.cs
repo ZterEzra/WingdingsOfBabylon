@@ -8,7 +8,7 @@ public class MainMenu : MonoBehaviour
     public void PlayGame()
     {
         // Load the level you want to play on button click
-        SceneManager.LoadScene("SampleScene"); // Replace with your level name
+        SceneManager.LoadScene("Level1"); // Replace with your level name
     }
 
     public void QuitGame()
